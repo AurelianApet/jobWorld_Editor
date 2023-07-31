@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ChangeLayoutArticle.aspx.cs" Inherits="jobworld.Account.ChangeLayoutArticle" %>
